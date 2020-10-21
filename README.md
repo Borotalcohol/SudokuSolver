@@ -11,8 +11,11 @@ You can install and run the program following these steps:
 
 ## Usage
 The solver.py script already has an example of sudoku to solve in the main function,
-if you want to change the sudoku to solve you have to open the script in any IDE or text editor and edit the 2D array (put 0 if the box is empty)
-<img src="res/CodeExample.png" alt="Code image"/>
+if you want to change the sudoku to solve you have to open the script in any
+IDE or text editor and edit the 2D array (put 0 if the box is empty)
+
+<img src="res/CodeExample.png" alt="Code image" width="500"/>
 
 When you're done editing the sudoku you can run the script, this will be an example of the output:
-<img src="res/RunningExample.png" alt="Output example">
+
+<img src="res/RunningExample.png" alt="Output example" width="500"/>
